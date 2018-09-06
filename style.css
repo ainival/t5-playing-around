@@ -1,1 +1,20 @@
+html>body{
+    background: #bada55;
+    color: blue;
+}
 
+
+
+li{
+
+}
+
+h1{
+    border: 1px solid #000;
+    text-align: center;
+}
+
+div {
+    border-radius: 50%;
+    background: pink;
+}
